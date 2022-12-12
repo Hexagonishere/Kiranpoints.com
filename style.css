@@ -35,6 +35,7 @@ button {
     font-weight: bold;
     border-radius: 30px;
     padding: 15px;
+    height: 30px;
     outline: none; 
 }
 h3 {
