@@ -39,6 +39,7 @@ button {
     padding: 15px;
     height: 30px;
     outline: none; 
+    align-content: center;
 }
 h3 {
     color: white
