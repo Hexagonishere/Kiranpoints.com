@@ -1,6 +1,6 @@
 h1 {
     color: #67ba47;
-    Font: Arial
+    Font: Arial;
 }
 
 body {
@@ -10,19 +10,19 @@ body {
         font-family: 'Poppins', sans-serif;
 }
 p {
-    color: white
+    color: white;
 }
 
 h6 {
-    color: white
+    color: white;
 }
 
 h2 {
-    color: white
+    color: white;
 }
 
 h4 {
-   color: white
+   color: red;
 }
 
 a {
@@ -42,5 +42,5 @@ button {
     align-content: center;
 }
 h3 {
-    color: white
+    color: white;
 }
